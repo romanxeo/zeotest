@@ -32,20 +32,20 @@ const AddModal: React.FC = () => {
 
     const formik = useFormik({
         initialValues: {
-            name: '43',
-            username: '43',
-            email: '4333',
-            addressStreet: '33',
-            addressSuite: '333324234',
-            addressCity: '234',
-            addressZipcode: '234',
-            addressGeoLat: '234',
-            addressGeoLng: '234',
-            phone: '234',
-            website: '34234',
-            companyName: '234',
-            companyCatchPhrase: '234234',
-            companyBs: '234234'
+            name: '',
+            username: '',
+            email: '',
+            addressStreet: '',
+            addressSuite: '',
+            addressCity: '',
+            addressZipcode: '',
+            addressGeoLat: '',
+            addressGeoLng: '',
+            phone: '',
+            website: '',
+            companyName: '',
+            companyCatchPhrase: '',
+            companyBs: ''
         },
         validate: (values) => {
             const errors: FormikErrorType = {};

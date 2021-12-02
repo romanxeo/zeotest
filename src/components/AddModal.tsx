@@ -98,6 +98,7 @@ const AddModal: React.FC = () => {
             }
             dispatch(addUserAC(newUser))
             unShowModal()
+            formik.resetForm();
         }
     })
 

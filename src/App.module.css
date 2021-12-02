@@ -1,0 +1,22 @@
+.headerTable {
+  width: 220px;
+  display: inline-block;
+  box-sizing: border-box;
+  height: 38px;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1320px;
+  border-top: #090909 1px solid;
+  border-bottom: #090909 1px solid;
+}
+
+.header {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1320px;
+  height: 60px;
+  padding-top: 20px;
+}

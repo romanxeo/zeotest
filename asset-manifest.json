@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zeotest/static/css/main.39105c04.chunk.css",
+    "main.js": "/zeotest/static/js/main.bc16ae83.chunk.js",
+    "main.js.map": "/zeotest/static/js/main.bc16ae83.chunk.js.map",
+    "runtime-main.js": "/zeotest/static/js/runtime-main.32cb866a.js",
+    "runtime-main.js.map": "/zeotest/static/js/runtime-main.32cb866a.js.map",
+    "static/js/2.14df8722.chunk.js": "/zeotest/static/js/2.14df8722.chunk.js",
+    "static/js/2.14df8722.chunk.js.map": "/zeotest/static/js/2.14df8722.chunk.js.map",
+    "static/js/3.8fb4f3d0.chunk.js": "/zeotest/static/js/3.8fb4f3d0.chunk.js",
+    "static/js/3.8fb4f3d0.chunk.js.map": "/zeotest/static/js/3.8fb4f3d0.chunk.js.map",
+    "index.html": "/zeotest/index.html",
+    "static/css/main.39105c04.chunk.css.map": "/zeotest/static/css/main.39105c04.chunk.css.map",
+    "static/js/2.14df8722.chunk.js.LICENSE.txt": "/zeotest/static/js/2.14df8722.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32cb866a.js",
+    "static/js/2.14df8722.chunk.js",
+    "static/css/main.39105c04.chunk.css",
+    "static/js/main.bc16ae83.chunk.js"
+  ]
+}
